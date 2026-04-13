@@ -12,7 +12,7 @@ A3. Almost no experience with C++ (programed an arduino one time).
 
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
-A4. Computational problems are a something that any engineering feild is going to have to solve and having the skills and tools to do so is immmensely valuable. For example, analyzing why something did or did not work, a critical problem solving step, reqires analyzing data something that is made much easier with a computer program the requires computational thinking. 
+A4. Computational problems are something that any engineering field is going to have to solve and having the skills and tools to do so is immmensely valuable. For example, analyzing why something did or did not work, a critical problem solving step, reqires analyzing data something that is made much easier with a computer program the requires computational thinking. 
 
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
